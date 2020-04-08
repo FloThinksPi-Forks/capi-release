@@ -56,7 +56,7 @@
 [submodule "src/cloud_controller_ng"]
 	path = src/cloud_controller_ng
 	url = https://github.infra.hana.ondemand.com/cloudfoundry/cloud_controller_ng
-	branch = "3.81.0-sap.1"
+	branch = "3.81.0-sap.2"
 [submodule "src/code.cloudfoundry.org/tps"]
 	path = src/code.cloudfoundry.org/tps
 	url = https://github.com/cloudfoundry/tps
